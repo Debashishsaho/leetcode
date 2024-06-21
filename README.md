@@ -7,6 +7,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Debashishsaho/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Debashishsaho/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Design
 |  |
 | ------- |
@@ -15,6 +16,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Debashishsaho/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Greedy
 |  |
 | ------- |
@@ -27,3 +29,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Debashishsaho/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Hash Table
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
