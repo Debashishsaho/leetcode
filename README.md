@@ -6,6 +6,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Debashishsaho/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Debashishsaho/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Debashishsaho/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -26,6 +27,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 # Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Debashishsaho/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Counting
 |  |
@@ -34,6 +36,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 # Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Debashishsaho/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
@@ -61,3 +64,11 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Debashishsaho/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+# Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
