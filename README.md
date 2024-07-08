@@ -80,10 +80,12 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Debashishsaho/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Debashishsaho/leetcode/tree/master/1086-divisor-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,5 +135,14 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Debashishsaho/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
