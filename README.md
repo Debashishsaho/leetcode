@@ -103,6 +103,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
 | [1764-maximum-repeating-substring](https://github.com/Debashishsaho/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
@@ -150,5 +151,6 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
