@@ -106,6 +106,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
 | [1764-maximum-repeating-substring](https://github.com/Debashishsaho/leetcode/tree/master/1764-maximum-repeating-substring) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -153,4 +155,5 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
