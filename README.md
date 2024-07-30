@@ -95,6 +95,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Debashishsaho/leetcode/tree/master/1086-divisor-game) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Debashishsaho/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/Debashishsaho/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Brainteaser
 |  |
@@ -109,6 +110,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Debashishsaho/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/Debashishsaho/leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
@@ -166,6 +168,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Debashishsaho/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Divide and Conquer
 |  |
