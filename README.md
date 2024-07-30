@@ -77,6 +77,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Debashishsaho/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -173,6 +174,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -194,4 +196,16 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
