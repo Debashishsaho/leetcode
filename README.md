@@ -119,6 +119,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1818-maximum-score-from-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Debashishsaho/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Debashishsaho/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,11 +148,13 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Debashishsaho/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +204,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
