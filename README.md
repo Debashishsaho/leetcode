@@ -77,6 +77,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Debashishsaho/leetcode/tree/master/0040-combination-sum-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
@@ -229,4 +230,8 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Debashishsaho/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Debashishsaho/leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
