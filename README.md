@@ -80,6 +80,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0040-combination-sum-ii](https://github.com/Debashishsaho/leetcode/tree/master/0040-combination-sum-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Debashishsaho/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/Debashishsaho/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -136,14 +137,17 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
