@@ -95,11 +95,13 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Math
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/Debashishsaho/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/Debashishsaho/leetcode/tree/master/1086-divisor-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/Debashishsaho/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/Debashishsaho/leetcode/tree/master/1086-divisor-game) |
 | [1196-filling-bookcase-shelves](https://github.com/Debashishsaho/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Debashishsaho/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
