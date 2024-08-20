@@ -84,6 +84,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0890-lemonade-change](https://github.com/Debashishsaho/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Debashishsaho/leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Debashishsaho/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -97,6 +98,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Debashishsaho/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/Debashishsaho/leetcode/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
@@ -104,6 +106,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0650-2-keys-keyboard](https://github.com/Debashishsaho/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/Debashishsaho/leetcode/tree/master/1086-divisor-game) |
 | [1196-filling-bookcase-shelves](https://github.com/Debashishsaho/leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Debashishsaho/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/Debashishsaho/leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Brainteaser
@@ -114,6 +117,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Debashishsaho/leetcode/tree/master/1086-divisor-game) |
+| [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -242,4 +246,8 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Debashishsaho/leetcode/tree/master/0040-combination-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
