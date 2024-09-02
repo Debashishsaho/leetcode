@@ -91,6 +91,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Debashishsaho/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Debashishsaho/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -155,6 +156,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Debashishsaho/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Debashishsaho/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -259,6 +262,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
