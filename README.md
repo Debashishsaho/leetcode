@@ -92,6 +92,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1741-sort-array-by-increasing-frequency](https://github.com/Debashishsaho/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Debashishsaho/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Debashishsaho/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -181,6 +182,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Debashishsaho/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Debashishsaho/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
@@ -278,4 +280,5 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
