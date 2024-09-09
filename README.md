@@ -183,6 +183,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Debashishsaho/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Debashishsaho/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Debashishsaho/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
