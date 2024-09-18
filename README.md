@@ -79,6 +79,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Debashishsaho/leetcode/tree/master/0040-combination-sum-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0179-largest-number](https://github.com/Debashishsaho/leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Debashishsaho/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -134,6 +135,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Debashishsaho/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Debashishsaho/leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Debashishsaho/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Debashishsaho/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -175,6 +177,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Debashishsaho/leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Debashishsaho/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -187,6 +190,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Debashishsaho/leetcode/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/Debashishsaho/leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
