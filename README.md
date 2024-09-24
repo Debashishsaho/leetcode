@@ -102,6 +102,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2155-find-missing-observations](https://github.com/Debashishsaho/leetcode/tree/master/2155-find-missing-observations) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Debashishsaho/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Debashishsaho/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Debashishsaho/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -152,6 +153,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Debashishsaho/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Debashishsaho/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1786-count-the-number-of-consistent-strings](https://github.com/Debashishsaho/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Debashishsaho/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Debashishsaho/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -328,4 +331,8 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Debashishsaho/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
