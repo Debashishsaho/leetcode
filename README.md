@@ -92,6 +92,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1435-xor-queries-of-a-subarray](https://github.com/Debashishsaho/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1677-matrix-diagonal-sum](https://github.com/Debashishsaho/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Debashishsaho/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Debashishsaho/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -340,6 +341,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Matrix
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Debashishsaho/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Number Theory
