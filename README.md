@@ -150,6 +150,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0920-uncommon-words-from-two-sentences](https://github.com/Debashishsaho/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Debashishsaho/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Debashishsaho/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/Debashishsaho/leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -175,6 +176,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0920-uncommon-words-from-two-sentences](https://github.com/Debashishsaho/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Debashishsaho/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Debashishsaho/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Debashishsaho/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
@@ -318,6 +320,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Debashishsaho/leetcode/tree/master/0040-combination-sum-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
