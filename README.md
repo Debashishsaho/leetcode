@@ -210,6 +210,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Debashishsaho/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Debashishsaho/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -298,6 +299,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Debashishsaho/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Debashishsaho/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Debashishsaho/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -308,6 +310,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Debashishsaho/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Debashishsaho/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -343,6 +346,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Debashishsaho/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
