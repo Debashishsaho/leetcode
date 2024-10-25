@@ -90,6 +90,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1256-rank-transform-of-an-array](https://github.com/Debashishsaho/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Debashishsaho/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Debashishsaho/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Debashishsaho/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -150,6 +151,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0920-uncommon-words-from-two-sentences](https://github.com/Debashishsaho/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Debashishsaho/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Debashishsaho/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Debashishsaho/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Debashishsaho/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Debashishsaho/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -341,6 +343,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Debashishsaho/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Debashishsaho/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -368,5 +371,6 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Debashishsaho/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Debashishsaho/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
