@@ -105,6 +105,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Debashishsaho/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/Debashishsaho/leetcode/tree/master/2155-find-missing-observations) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Debashishsaho/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Debashishsaho/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Debashishsaho/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -206,6 +207,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Debashishsaho/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Debashishsaho/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Debashishsaho/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
