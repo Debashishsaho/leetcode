@@ -178,6 +178,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debashishsaho/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Debashishsaho/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Debashishsaho/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Debashishsaho/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Debashishsaho/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
@@ -199,6 +200,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Debashishsaho/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Debashishsaho/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Debashishsaho/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Debashishsaho/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Debashishsaho/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -223,6 +225,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Debashishsaho/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Debashishsaho/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Debashishsaho/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Debashishsaho/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sorting
 |  |
 | ------- |
@@ -322,6 +325,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Debashishsaho/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Debashishsaho/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Debashishsaho/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Debashishsaho/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
@@ -409,4 +413,5 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1755-defuse-the-bomb](https://github.com/Debashishsaho/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Debashishsaho/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Debashishsaho/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Debashishsaho/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
