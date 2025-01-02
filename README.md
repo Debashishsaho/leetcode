@@ -112,6 +112,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Debashishsaho/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Debashishsaho/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Debashishsaho/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Debashishsaho/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Debashishsaho/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Debashishsaho/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -175,6 +176,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2232-adding-spaces-to-a-string](https://github.com/Debashishsaho/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Debashishsaho/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Debashishsaho/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Debashishsaho/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debashishsaho/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -368,6 +370,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Debashishsaho/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Debashishsaho/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
