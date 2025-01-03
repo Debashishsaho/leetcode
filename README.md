@@ -109,6 +109,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Debashishsaho/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debashishsaho/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Debashishsaho/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/Debashishsaho/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Debashishsaho/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Debashishsaho/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -372,6 +373,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1435-xor-queries-of-a-subarray](https://github.com/Debashishsaho/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Debashishsaho/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/Debashishsaho/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Debashishsaho/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
