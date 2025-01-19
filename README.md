@@ -81,6 +81,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Debashishsaho/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/Debashishsaho/leetcode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Debashishsaho/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Debashishsaho/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0539-minimum-time-difference](https://github.com/Debashishsaho/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Debashishsaho/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Debashishsaho/leetcode/tree/master/0890-lemonade-change) |
@@ -331,6 +332,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Debashishsaho/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Debashishsaho/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Debashishsaho/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -421,6 +423,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Debashishsaho/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Debashishsaho/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
@@ -430,6 +433,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Debashishsaho/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/Debashishsaho/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
