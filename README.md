@@ -109,6 +109,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Debashishsaho/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2145-grid-game](https://github.com/Debashishsaho/leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Debashishsaho/leetcode/tree/master/2155-find-missing-observations) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Debashishsaho/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debashishsaho/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -402,6 +403,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Debashishsaho/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Debashishsaho/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Debashishsaho/leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Debashishsaho/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Debashishsaho/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Debashishsaho/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -439,6 +441,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1677-matrix-diagonal-sum](https://github.com/Debashishsaho/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Debashishsaho/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Debashishsaho/leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Debashishsaho/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Number Theory
 |  |
