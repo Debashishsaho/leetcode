@@ -427,12 +427,14 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Debashishsaho/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Debashishsaho/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Debashishsaho/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Debashishsaho/leetcode/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Debashishsaho/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Debashishsaho/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Debashishsaho/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Debashishsaho/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Debashishsaho/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -482,4 +484,12 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debashishsaho/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Graph
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Debashishsaho/leetcode/tree/master/1558-course-schedule-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Debashishsaho/leetcode/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
