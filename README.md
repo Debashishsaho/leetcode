@@ -425,6 +425,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Debashishsaho/leetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Debashishsaho/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Debashishsaho/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Debashishsaho/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -435,6 +436,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Debashishsaho/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/Debashishsaho/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Debashishsaho/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Debashishsaho/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Debashishsaho/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -444,6 +446,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Debashishsaho/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Debashishsaho/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Debashishsaho/leetcode/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Debashishsaho/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -492,6 +495,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Debashishsaho/leetcode/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/Debashishsaho/leetcode/tree/master/1558-course-schedule-iv) |
 ## Topological Sort
 |  |
