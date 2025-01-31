@@ -136,6 +136,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Debashishsaho/leetcode/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Debashishsaho/leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Debashishsaho/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -293,6 +294,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Debashishsaho/leetcode/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/Debashishsaho/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Debashishsaho/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Debashishsaho/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -313,6 +315,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Debashishsaho/leetcode/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Debashishsaho/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
