@@ -119,6 +119,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Debashishsaho/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Debashishsaho/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Debashishsaho/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Debashishsaho/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Debashishsaho/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Debashishsaho/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -232,6 +233,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1786-count-the-number-of-consistent-strings](https://github.com/Debashishsaho/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Debashishsaho/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Debashishsaho/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Debashishsaho/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Debashishsaho/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Debashishsaho/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -275,6 +277,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1333-sort-the-jumbled-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Debashishsaho/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Debashishsaho/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Debashishsaho/leetcode/tree/master/2502-sort-the-people) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Debashishsaho/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Debashishsaho/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -348,6 +351,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0407-trapping-rain-water-ii](https://github.com/Debashishsaho/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Debashishsaho/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Debashishsaho/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Debashishsaho/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Debashishsaho/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
