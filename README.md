@@ -133,6 +133,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2792-neighboring-bitwise-xor](https://github.com/Debashishsaho/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debashishsaho/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Debashishsaho/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debashishsaho/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Debashishsaho/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Debashishsaho/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Debashishsaho/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -318,6 +319,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [2232-adding-spaces-to-a-string](https://github.com/Debashishsaho/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Debashishsaho/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Debashishsaho/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debashishsaho/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Debashishsaho/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Debashishsaho/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -355,6 +357,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0948-sort-an-array](https://github.com/Debashishsaho/leetcode/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Debashishsaho/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Debashishsaho/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debashishsaho/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Debashishsaho/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
