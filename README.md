@@ -95,6 +95,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Debashishsaho/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Debashishsaho/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Debashishsaho/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Debashishsaho/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Debashishsaho/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Debashishsaho/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -145,6 +146,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [0650-2-keys-keyboard](https://github.com/Debashishsaho/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1086-divisor-game](https://github.com/Debashishsaho/leetcode/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Debashishsaho/leetcode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/Debashishsaho/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -400,10 +402,12 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Debashishsaho/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Debashishsaho/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -414,6 +418,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | ------- |
 | [1240-stone-game-ii](https://github.com/Debashishsaho/leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Debashishsaho/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Debashishsaho/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Debashishsaho/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Debashishsaho/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
