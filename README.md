@@ -150,6 +150,7 @@ Upload solutions for LeetCode, GeeksforGeeks, and other platforms.
 | [1477-product-of-the-last-k-numbers](https://github.com/Debashishsaho/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Debashishsaho/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Debashishsaho/leetcode/tree/master/2155-find-missing-observations) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Debashishsaho/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Debashishsaho/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Debashishsaho/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Debashishsaho/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
